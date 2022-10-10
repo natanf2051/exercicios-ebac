@@ -11,7 +11,7 @@ public void setNotaFinal(String aluno, int n1, int n2, int n3, int n4){
     System.out.println(aluno + " obteve a media de " + total);
      
 };    
-//aqui diz se o aluno foi aprovado ou não.
+//aqui diz se o aluno foi aprovado ou não..
 public int getnotaFinal(){
    //se a media for maior ou igual a 7, o aluno esta aprovado!
     if(total >= 7){

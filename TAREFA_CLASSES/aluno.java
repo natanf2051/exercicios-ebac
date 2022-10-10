@@ -9,5 +9,5 @@ public class aluno {
         //aqui imprimimos a media obtida
         natan.getnotaFinal();
         
-    }
+    };
 }
