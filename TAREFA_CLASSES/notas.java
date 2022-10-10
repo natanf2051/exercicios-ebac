@@ -25,5 +25,5 @@ public int getnotaFinal(){
     };
     return total;
    
-}
+};
 }
