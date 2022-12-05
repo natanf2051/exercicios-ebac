@@ -31,7 +31,7 @@ public class ContratoServiceTest {
     public void buscarTest() {
         IContratoDao dao = new ContratoDaoMock();
         IContratoService service = new ContratoService(dao);
-        String retorno = service.salvar();
+        String retorno = service.buscar();
         Assert.assertEquals("Sucesso", retorno);
     }
 
