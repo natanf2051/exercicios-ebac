@@ -20,14 +20,6 @@ public class ExtratorListaFeminino{
        listaMulheres.forEach(s -> System.out.println(s));
        
         return listaMulheres;
-    }
-
-    public List<Pessoa> listaHomem(){
-        List<Pessoa> listaHomem = todasAsPessoa.stream().filter(todasAsPessoas -> todasAsPessoas.getSexo().equals("f")).collect(Collectors.toList());
-        //this.todasAsPessoa = listaHomem;
-        listaHomem.forEach(m -> System.out.println(m));
-        
-         return listaHomem;
      }
 
         

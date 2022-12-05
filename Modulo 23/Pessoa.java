@@ -38,7 +38,7 @@ public List<Pessoa> popularPessoa(){
    //System.out.print("digite seu nome: ");
    pess.setnome("natan");
    //System.out.print("digite seu sexo: ");
-   pess.setSexo("f");
+   pess.setSexo("m");
 
    // System.out.println("CADASTRE UMA SEGUNDA PESSOA");
 
@@ -49,7 +49,19 @@ public List<Pessoa> popularPessoa(){
    pess1.setSexo("f");
  
 
-   return List.of(pess, pess1);
+   Pessoa pess2 = new Pessoa();
+    pess2.setnome("Chico");
+    pess2.setSexo("m");
+
+   Pessoa pess3 = new Pessoa();
+    pess3.setnome("Maria");
+    pess3.setSexo("f");
+
+   Pessoa pess4 = new Pessoa();
+    pess4.setnome("Jose");
+    pess4.setSexo("m");
+
+   return List.of(pess, pess1, pess2, pess3, pess4);
 
 }
 

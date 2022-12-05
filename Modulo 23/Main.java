@@ -19,11 +19,12 @@ public static void main(String[] args) {
  while(controle == controle2){
     System.out.println("DIGITE SEUS DADOS, EX: 'NOME E SEXO: F ou M'");
     List<Pessoa> gente = new Pessoa().popularPessoa();
+    
     System.out.println(gente);
    
     ExtratorListaFeminino gent = new ExtratorListaFeminino(gente);
       gent.listaMulher();
-      gent.listaHomem();
+
    
     break;
 

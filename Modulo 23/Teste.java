@@ -14,9 +14,9 @@ public void soMulher(){
     System.out.println(gente);
    
     ExtratorListaFeminino gent = new ExtratorListaFeminino(gente);
-      gent.listaMulher();
-      gent.listaHomem();
-      assertEquals(gent.listaMulher(), gent.listaHomem());
+     int quantidadeMulher =  gent.listaMulher().size();
+     assertEquals(2, quantidadeMulher);
+
 }
     
 }
