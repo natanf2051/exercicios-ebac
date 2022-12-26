@@ -10,10 +10,6 @@ import br.com.rpires.dao.Persistente;
 import br.com.rpires.exceptions.DAOException;
 import br.com.rpires.exceptions.TipoChaveNaoEncontradaException;
 
-/**
- * @author rodrigo.pires
- *
- */
 public interface IGenericService <T extends Persistente, E extends Serializable> {
 	
 	/**
