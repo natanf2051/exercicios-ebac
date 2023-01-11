@@ -1,0 +1,17 @@
+/home/natan/Área de Trabalho/backend-java-ebac-main/mod38/ExemploJSFProfessor/src/main/java/br/com/rpires/dao/generic/IGenericDAO.java
+/home/natan/Área de Trabalho/backend-java-ebac-main/mod38/ExemploJSFProfessor/src/main/java/br/com/rpires/services/generic/GenericService.java
+/home/natan/Área de Trabalho/backend-java-ebac-main/mod38/ExemploJSFProfessor/src/main/java/br/com/rpires/dao/ClienteDAO.java
+/home/natan/Área de Trabalho/backend-java-ebac-main/mod38/ExemploJSFProfessor/src/main/java/br/com/rpires/service/IClienteService.java
+/home/natan/Área de Trabalho/backend-java-ebac-main/mod38/ExemploJSFProfessor/src/main/java/br/com/rpires/exceptions/TipoChaveNaoEncontradaException.java
+/home/natan/Área de Trabalho/backend-java-ebac-main/mod38/ExemploJSFProfessor/src/main/java/br/com/rpires/exceptions/TipoElementoNaoConhecidoException.java
+/home/natan/Área de Trabalho/backend-java-ebac-main/mod38/ExemploJSFProfessor/src/main/java/br/com/rpires/controller/IndexController.java
+/home/natan/Área de Trabalho/backend-java-ebac-main/mod38/ExemploJSFProfessor/src/main/java/br/com/rpires/service/ClienteService.java
+/home/natan/Área de Trabalho/backend-java-ebac-main/mod38/ExemploJSFProfessor/src/main/java/br/com/rpires/dao/generic/GenericDAO.java
+/home/natan/Área de Trabalho/backend-java-ebac-main/mod38/ExemploJSFProfessor/src/main/java/br/com/rpires/exceptions/MaisDeUmRegistroException.java
+/home/natan/Área de Trabalho/backend-java-ebac-main/mod38/ExemploJSFProfessor/src/main/java/br/com/rpires/domain/Persistente.java
+/home/natan/Área de Trabalho/backend-java-ebac-main/mod38/ExemploJSFProfessor/src/main/java/br/com/rpires/controller/ClienteController.java
+/home/natan/Área de Trabalho/backend-java-ebac-main/mod38/ExemploJSFProfessor/src/main/java/br/com/rpires/dao/IClienteDAO.java
+/home/natan/Área de Trabalho/backend-java-ebac-main/mod38/ExemploJSFProfessor/src/main/java/br/com/rpires/domain/Cliente.java
+/home/natan/Área de Trabalho/backend-java-ebac-main/mod38/ExemploJSFProfessor/src/main/java/br/com/rpires/exceptions/DAOException.java
+/home/natan/Área de Trabalho/backend-java-ebac-main/mod38/ExemploJSFProfessor/src/main/java/br/com/rpires/exceptions/TableException.java
+/home/natan/Área de Trabalho/backend-java-ebac-main/mod38/ExemploJSFProfessor/src/main/java/br/com/rpires/services/generic/IGenericService.java
